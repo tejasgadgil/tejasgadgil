@@ -1,14 +1,9 @@
-### Hi there 👋, my name is Tejas!
-#### 👨‍💻 Meet the Developer:
-![👨‍💻 Meet the Developer:](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there 👋, I'm Tejas!
 
-👨‍💻 About Me:
+#### 👨‍💻 Meet the Developer:
 I'm a developer-in-training, mastering the art of code one bug at a time! 🐛 When I'm not glued to my screen, you'll find me fueling up coffee or hunting down the elusive missing semicolon. Let's build something awesome together! 🚀
 
 Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tejasgadgil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tejas-gadgil/)  
 
@@ -16,7 +11,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasgadgil)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/tejasgadgil)  
 
 
 
