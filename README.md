@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tejas!
 
 #### 👨‍💻 Meet the Developer:
-I'm a developer-in-training, mastering the art of code one bug at a time! 🐛 When I'm not glued to my screen, you'll find me fueling up coffee or hunting down the elusive missing semicolon. 
+I'm a developer-in-training, mastering the art of code one bug at a time! 🐛 When I'm not glued to my screen, you'll find me fueling up on coffee or hunting down the elusive missing semicolon. 
 Let's build something awesome together! 🚀
 
 Skills: JAVA / PYTHON / JS / HTML / CSS
