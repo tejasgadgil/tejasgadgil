@@ -4,10 +4,11 @@
 I'm a developer-in-training, mastering the art of code one bug at a time! 🐛 When I'm not glued to my screen, you'll find me fueling up on coffee or hunting down the elusive missing semicolon. 
 Let's build something awesome together! 🚀
 
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasgadgil&theme=dracula)
+
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,androidstudio,mysql,aws,nodejs)](https://skillicons.dev)
-(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasgadgil&theme=dracula)
-(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasgadgil&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasgadgil&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
