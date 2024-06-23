@@ -4,7 +4,12 @@
 I'm a developer-in-training, mastering the art of code one bug at a time! 🐛 When I'm not glued to my screen, you'll find me fueling up on coffee or hunting down the elusive missing semicolon. 
 Let's build something awesome together! 🚀
 
-Skills: JAVA / PYTHON / JS / HTML / CSS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,androidstudio,aws,nodejs,mysql" />
+  </a>
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasgadgil&layout=compact)
 
