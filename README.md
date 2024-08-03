@@ -8,9 +8,9 @@ Let's build something awesome together! 🚀
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,androidstudio,mysql,aws,nodejs)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasgadgil&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasgadgil&layout=donut-vertical&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasgadgil&theme=github&days=90)](https://github.com/tejasgadgil/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejasgadgil&theme=github&days=40)](https://github.com/tejasgadgil/github-readme-activity-graph)
 
 
 
